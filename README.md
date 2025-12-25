@@ -1,6 +1,6 @@
-# Nyaya Artificial - AI-Powered Music Recommendation Agent 🎵
+# Melody AI - AI-Powered Music Recommendation Agent 🎵
 
-Nyaya Artificial is an intelligent, multi-agent music recommendation system that provides personalized song suggestions based on user mood, weather conditions, and listening history. Built with Google's Agent Development Kit (ADK) and featuring a modern React frontend, this project demonstrates advanced agent orchestration patterns including parallel execution, sequential pipelines, and quality control mechanisms.
+Melody AI is an intelligent, multi-agent music recommendation system that provides personalized song suggestions based on user mood, weather conditions, and listening history. Built with Google's Agent Development Kit (ADK) and featuring a modern React frontend, this project demonstrates advanced agent orchestration patterns including parallel execution, sequential pipelines, and quality control mechanisms.
 
 ## 🎯 Features
 
@@ -184,8 +184,8 @@ App.jsx
 #### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd NyayaArtificial
+git clone https://github.com/Sarthak1011-code/Melody_Music_AgenticAgent.git
+cd Melody_Music_AgenticAgent
 ```
 
 #### 2. Set Up Python Virtual Environment
