@@ -1,0 +1,18 @@
+# Core Framework
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.0.0
+
+# Google ADK and GenAI
+google-genai>=1.0.0
+google-adk>=1.0.0
+
+# Environment Management
+python-dotenv>=1.0.0
+
+# HTTP Requests (for tools)
+# Note: urllib is part of standard library, no need to install
+
+# CORS Middleware (included with FastAPI)
+# fastapi.middleware.cors is part of FastAPI
+
